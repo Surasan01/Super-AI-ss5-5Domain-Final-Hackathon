@@ -1,0 +1,11 @@
+invoice_id,company_name,invoice_date,total_amount
+inv_000,,,650100
+inv_001,,,14.000
+inv_002,,,111000
+inv_003,,,65.0
+inv_004,,,39600
+inv_005,,,155.999
+inv_006,,,48.000
+inv_007,,,40000
+inv_008,,,135500
+inv_009,,,14.000
